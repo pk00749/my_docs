@@ -67,6 +67,7 @@
 这里是实现了加减乘除；
 
 (1) 解析转换，中缀至后缀
+
 	- 创建一个operator_list的空栈保存运算符；创建一个result_set空列表作为最后结果输入
 	
 	- 循环扫描formula：
@@ -82,6 +83,7 @@
 (2) 转换后计算
 
 	- 创建一个calculating_list的空栈保存运算符
+	
 	- 循环扫描converted_result：
 	::
 	  
