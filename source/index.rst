@@ -11,4 +11,5 @@ Welcome to my_docs's documentation!
    :caption: Contents:
 
    scrum
+   scrum_2
    python
